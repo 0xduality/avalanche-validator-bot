@@ -1,0 +1,17 @@
+{
+  "name": "validator-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for validators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lava team",
+  "license": "MIT",
+  "dependencies": {
+    "avalanche": "^3.10.2",
+    "create-hash": "^1.2.0",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
